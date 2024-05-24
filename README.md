@@ -10,4 +10,4 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
 
-  -Projeto criado com Python, bibliotecas: Pandas, Plotly,  e Ipynb notebook.  
+  -Projeto feito com Python, bibliotecas: Pandas, Plotly,  e Ipynb notebook.  
